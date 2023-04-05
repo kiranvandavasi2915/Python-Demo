@@ -1,0 +1,9 @@
+{
+	"name": "GITFulfillment",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fba632ea-5fa6-4ff0-aa7b-490bee6828d5",
+		"tenantId": "092616aa-8f95-4de5-abde-bb652c8baf97"
+	}
+}
